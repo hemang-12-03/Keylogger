@@ -1,4 +1,15 @@
-Keylogger
+
+```sh
+
+# Step 1: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 2: run python3 <YOUR_PROJECT_NAME.py> to deploy.
+
+# Step 3: Press F9 to start/stop logging
+          Press CTRL+C to exit
+
+```
 
 Keylogger is a cybersecurity research and monitoring project developed to demonstrate how keystroke logging techniques work in real-world systems for educational and ethical cybersecurity purposes. The project was created to help understand system monitoring, user activity tracking, cybersecurity risks, and defensive security awareness related to unauthorized keylogging attacks.
 
